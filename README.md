@@ -27,10 +27,10 @@ mo‘ljallangan Avtotest dasturining tanishtiruv va yuklab olish sahifasi.
    Tayyor fayllar `dist/` papkasida hosil bo‘ladi. Mahalliy ko‘rish uchun
    `npm run preview` buyrug‘idan foydalaning.
 
-## EXE faylini sozlash
+## Yuklab olish faylini sozlash
 
-- Haqiqiy EXE faylni `public/downloads/` papkasiga joylang. Hozirgi
-  yuklab olish manzili `AZIZBEK AVTO TEST-Setup-1.0.5.exe` fayliga ulangan.
+- EXE yoki ZIP faylni `public/downloads/` papkasiga joylang. Hozirgi
+  yuklab olish manzili `AZIZBEK AVTO TEST.zip` fayliga ulangan.
   Yuklab olish tugmasi sozlangan manzildagi fayl mavjud bo‘lmaguncha faol
   bo‘lmaydi.
   Faylni ishlab turgan server paytida qo‘shsangiz, serverni qayta ishga
