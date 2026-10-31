@@ -30,7 +30,7 @@ mo‘ljallangan Avtotest dasturining tanishtiruv va yuklab olish sahifasi.
 ## EXE faylini sozlash
 
 - Haqiqiy EXE faylni `public/downloads/` papkasiga joylang. Hozirgi
-  yuklab olish manzili `Avto Quiz Setup 0.0.0.exe` fayliga ulangan.
+  yuklab olish manzili `AZIZBEK AVTO TEST-Setup-1.0.5.exe` fayliga ulangan.
   Yuklab olish tugmasi sozlangan manzildagi fayl mavjud bo‘lmaguncha faol
   bo‘lmaydi.
   Faylni ishlab turgan server paytida qo‘shsangiz, serverni qayta ishga
